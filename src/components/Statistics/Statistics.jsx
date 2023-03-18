@@ -9,10 +9,3 @@ export const Statistics = ({stats}) => (
 </ul>
 </section>)
 
-// Statistics.propTypes = {
-//     stats: PropTypes.shape({
-//     id: PropTypes.string.isRequired,
-//     label: PropTypes.string.isRequired,
-//     percentage: PropTypes.string.isRequired,
-//     }).isRequired,
-//   };
