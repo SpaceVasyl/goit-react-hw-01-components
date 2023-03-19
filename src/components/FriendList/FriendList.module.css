@@ -1,0 +1,34 @@
+.friendList{
+    list-style: none;
+    padding: 0;
+    width: 300px;
+    margin-left: 15px;
+}
+.item {
+    display: flex;
+    border: 1px solid;
+    border-radius: 5px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5px;
+    background-color: peru;
+}
+.status{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.trues{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.falces{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: red;
+}
