@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SpaceVasyl/goit-react-hw-01-components.git/static/css/main.f9c587f4.css",
-    "main.js": "/SpaceVasyl/goit-react-hw-01-components.git/static/js/main.c12578fb.js",
+    "main.css": "/SpaceVasyl/goit-react-hw-01-components.git/static/css/main.a7efba3c.css",
+    "main.js": "/SpaceVasyl/goit-react-hw-01-components.git/static/js/main.08c28ed0.js",
     "index.html": "/SpaceVasyl/goit-react-hw-01-components.git/index.html",
-    "main.f9c587f4.css.map": "/SpaceVasyl/goit-react-hw-01-components.git/static/css/main.f9c587f4.css.map",
-    "main.c12578fb.js.map": "/SpaceVasyl/goit-react-hw-01-components.git/static/js/main.c12578fb.js.map"
+    "main.a7efba3c.css.map": "/SpaceVasyl/goit-react-hw-01-components.git/static/css/main.a7efba3c.css.map",
+    "main.08c28ed0.js.map": "/SpaceVasyl/goit-react-hw-01-components.git/static/js/main.08c28ed0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9c587f4.css",
-    "static/js/main.c12578fb.js"
+    "static/css/main.a7efba3c.css",
+    "static/js/main.08c28ed0.js"
   ]
 }
