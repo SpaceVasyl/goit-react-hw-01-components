@@ -1,0 +1,32 @@
+.table{
+    width: 300px;
+    list-style: none;
+    display: grid;
+    padding: 0;
+    margin: 15px;
+    border-left: 1px solid black;
+}
+.firstRowElement{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    align-items: start;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    
+}
+.firstRowElement span{
+    border-right: 1px solid black;
+}
+
+.element{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    align-items: start;
+    border-bottom: 1px solid black;
+}
+
+.element span{
+    border-right: 1px solid black;
+}
